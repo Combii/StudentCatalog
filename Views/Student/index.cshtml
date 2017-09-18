@@ -7,30 +7,24 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 </head>
 <body>
-    <div class="container">
+<div class="container">
 
-        <header class="jumbotron">
-    <h1>Hello from index.cshtml</h1>
-        </header>
-    
+    <header class="jumbotron">
+        <h1>Hello from index.cshtml</h1>
+    </header>
+
     <table class="table table-striped">
-        @foreach(var stud in @ViewBag.stud)        
+        @foreach (var item in ViewBag.stud)
         {
             <tr>
-                <td> @stud.FirstName </td>
-                <td> @stud.LastName</td>
-                <td> @stud.Age </td> 
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Age</td>
             </tr>
         }
     </table>
-    
-    
-    </div>
+
+
+</div>
 </body>
 </html>
-
-
-
-
-
-

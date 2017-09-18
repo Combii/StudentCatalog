@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/clbo/.dotnet/store/|arch|/|tfm|",
-      "/Users/clbo/.nuget/packages",
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "/Users/Combii/.dotnet/store/|arch|/|tfm|",
+      "/Users/Combii/.nuget/packages"
     ]
   }
 }

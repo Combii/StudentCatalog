@@ -41,8 +41,8 @@ namespace StudentsCatalog
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
-                    name: "default",
-                    template: "{controller=Student}/{action=Index}/{id?}");
+                    "default",
+                    "{controller=Student}/{action=Index}/{id?}");
             });
         }
     }

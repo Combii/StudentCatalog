@@ -8,3 +8,14 @@
 /Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.AssemblyInfo.cs
 /Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.dll
 /Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.pdb
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.deps.json
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.runtimeconfig.json
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.runtimeconfig.dev.json
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.dll
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.pdb
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.csproj.CoreCompileInputs.cache
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.AssemblyInfoInputs.cache
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.AssemblyInfo.cs
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.dll
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.pdb
+/Users/Combii/Dropbox/Datamatiker/4.Semester/ASP.Net/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.csprojResolveAssemblyReference.cache
